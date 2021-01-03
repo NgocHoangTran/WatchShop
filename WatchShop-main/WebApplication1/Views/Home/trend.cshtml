@@ -1,0 +1,14 @@
+﻿@foreach (var item in ViewBag.lstPro)
+{
+    <li>
+        <div class="p_left" >
+            <img src="@item.productPicture" style="float:left;" class="img-responsive" width="60px" height="80px" alt="" />
+        </div>
+        <div class="p_right">
+            <h4><a style="overflow:hidden; width:80px; white-space: nowrap;" href="/ProductView/Detail/@item.ID">@item.productName</a></h4>
+            <span class="price">@item.Price $</span>
+        </div>
+        <div class="clearfix"> </div>
+    </li>
+}
+

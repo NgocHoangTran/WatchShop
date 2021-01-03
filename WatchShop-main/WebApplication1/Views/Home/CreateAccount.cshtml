@@ -1,0 +1,134 @@
+﻿@model WebApplication1.Models.Customer
+@{
+    ViewBag.Title = "CreateAccount";
+    Layout = "~/Views/Shared/_LayoutLog_Reg.cshtml";
+}
+@using (Html.BeginForm("Register", "Home", FormMethod.Post, new { id = "regisform" }))
+{
+    <div>
+        <span>Name*</span>
+        @Html.TextBoxFor(model => model.accuontName, new { @autofocus = "autofocus" })
+        <span style="color:red" class="helper" id="name_helper"></span>
+    </div>
+    <div>
+        <span>Address*</span>
+        @Html.TextBoxFor(model => model.Address)
+        <span style="color:red" class="helper" id="add_helper"></span>
+    </div>
+    <div>
+        <span>Mail*</span>
+        @Html.TextBoxFor(model => model.Email, new { type = "email" })
+        <span style="color:red" class="helper" id="mail_helper"></span>
+    </div>
+    <div>
+        <span>Phone*</span>
+        @Html.TextBoxFor(model => model.phoneNumber, new { type = "tel" })
+        <span style="color:red" class="helper" id="phone_helper"></span>
+    </div>
+    <div>
+        <span>Password*</span>
+        @Html.TextBoxFor(model => model.passWord, new { type = "password" })
+        <span style="color:red" class="helper" id="pass_helper"></span>
+    </div>
+
+    <input type="submit" class="input_typebutt" value="Register">
+}
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $('#accuontName').blur(function () {
+                var content = $('#accuontName').val();
+                console.log(content);
+                if (content == '')
+                    $('#name_helper').text("Invalid");
+            });
+            $('#accuontName').click(function () {
+                $('#name_helper').text('');
+            });
+
+            $('#Address').blur(function () {
+                var content = $('#Address').val();
+                console.log(content);
+                if (content == '')
+                    $('#add_helper').text("Invalid");
+            });
+            $('#Address').click(function () {
+                $('#add_helper').text('');
+            });
+
+            $('#Email').blur(function () {
+                var content = $('#Email').val();
+                console.log(content);
+                if (content == '')
+                    $('#mail_helper').text("Invalid");
+            });
+            $('#Email').click(function () {
+                $('#mail_helper').text('');
+            });
+
+            $('#phoneNumber').blur(function () {
+                var content = $('#phoneNumber').val();
+                console.log(content);
+                if (content == '')
+                    $('#phone_helper').text("Invalid");
+            });
+            $('#phoneNumber').click(function () {
+                $('#phone_helper').text('');
+            });
+
+            $('#passWord').blur(function () {
+                var content = $('#passWord').val();
+                console.log(content);
+                if (content == '')
+                    $('#pass_helper').text("Invalid");
+            });
+            $('#passWord').click(function () {
+                $('#pass_helper').text('');
+            });
+
+            $('#regisform').submit(function (event) {
+                var x = document.getElementsByClassName("helper");
+                var count = 0;
+                for (var i = 0; i < x.length; i++) {
+                    if (x[i].innerHTML != '')
+                        count++;                    
+                }
+                if (count != 0) {
+                    event.preventDefault();
+                }
+            });
+            
+        });
+    </script>
+    
+}
+
+@*<form>
+        <div>
+            <span>Name*</span>
+            <input type="text" name="name" id="name">
+        </div>
+        <div>
+            <span>Address*</span>
+            <input type="text" name="add" id="add">
+        </div>
+        <div>
+            <span>Mail*</span>
+            <input type="email" name="email" id="email">
+        </div>
+        <div>
+            <span>Phone*</span>
+            <input type="tel" name="phone" id="phone">
+        </div>
+        <div>
+            <span class="pass">Password*</span>
+            <input type="password" name="password" id="password">
+        </div>
+
+        <input type="submit" value="Register">
+    </form>*@
+
+
+
+

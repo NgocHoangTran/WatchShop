@@ -1,0 +1,670 @@
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\WebApplication1.dll.config
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\WebApplication1.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\WebApplication1.pdb
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\csc.exe
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\csc.exe.config
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\csc.rsp
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\csi.exe
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\csi.exe.config
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\csi.rsp
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Console.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\vbc.exe
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\vbc.rsp
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Helpers.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Mvc.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Optimization.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Razor.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.WebPages.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\WebGrease.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Helpers.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Mvc.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Optimization.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.Razor.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.WebPages.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ShopDongHo\WebApplication1\bin\WebApplication1.dll.config
+D:\ShopDongHo\WebApplication1\bin\WebApplication1.dll
+D:\ShopDongHo\WebApplication1\bin\WebApplication1.pdb
+D:\ShopDongHo\WebApplication1\bin\roslyn\csc.exe
+D:\ShopDongHo\WebApplication1\bin\roslyn\csc.exe.config
+D:\ShopDongHo\WebApplication1\bin\roslyn\csc.rsp
+D:\ShopDongHo\WebApplication1\bin\roslyn\csi.exe
+D:\ShopDongHo\WebApplication1\bin\roslyn\csi.exe.config
+D:\ShopDongHo\WebApplication1\bin\roslyn\csi.rsp
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Console.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ShopDongHo\WebApplication1\bin\roslyn\vbc.exe
+D:\ShopDongHo\WebApplication1\bin\roslyn\vbc.exe.config
+D:\ShopDongHo\WebApplication1\bin\roslyn\vbc.rsp
+D:\ShopDongHo\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\ShopDongHo\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\ShopDongHo\WebApplication1\bin\Antlr3.Runtime.dll
+D:\ShopDongHo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ShopDongHo\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\ShopDongHo\WebApplication1\bin\Newtonsoft.Json.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.Helpers.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.Mvc.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.Optimization.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.Razor.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.WebPages.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\ShopDongHo\WebApplication1\bin\WebGrease.dll
+D:\ShopDongHo\WebApplication1\bin\System.Web.Helpers.xml
+D:\ShopDongHo\WebApplication1\bin\System.Web.Mvc.xml
+D:\ShopDongHo\WebApplication1\bin\System.Web.Optimization.xml
+D:\ShopDongHo\WebApplication1\bin\System.Web.Razor.xml
+D:\ShopDongHo\WebApplication1\bin\System.Web.WebPages.xml
+D:\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\ShopDongHo\WebApplication1\bin\Newtonsoft.Json.xml
+D:\ShopDongHo\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\ShopDongHo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ShopDongHo\WebApplication1\bin\EntityFramework.dll
+D:\ShopDongHo\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\ShopDongHo\WebApplication1\bin\EntityFramework.xml
+D:\ShopDongHo\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\EntityFramework.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\EntityFramework.xml
+D:\Documents\Lập trình web\ShopDongHo\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\WebApplication1.dll.config
+D:\Documents\ShopDongHo\WebApplication1\bin\WebApplication1.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\WebApplication1.pdb
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\csc.exe
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\csc.exe.config
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\csc.rsp
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\csi.exe
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\csi.exe.config
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\csi.rsp
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Console.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\vbc.exe
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\vbc.exe.config
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\vbc.rsp
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\Documents\ShopDongHo\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\ShopDongHo\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\EntityFramework.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Helpers.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Mvc.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Optimization.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Razor.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.WebPages.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\WebGrease.dll
+D:\Documents\ShopDongHo\WebApplication1\bin\EntityFramework.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Helpers.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Mvc.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Optimization.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.Razor.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.WebPages.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Documents\ShopDongHo\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Documents\ShopDongHo\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Documents\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Documents\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\Documents\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Documents\ShopDongHo\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\WebApplication1.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\WebGrease.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Desktop\WatchShop\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.pdb
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebGrease.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\DELL\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebGrease.dll
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\WebGrease.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Admin\Desktop\WatchShop\WatchShop-main\WatchShop-main\WebApplication1\bin\CKFinder.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\WebApplication1.dll.config
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\WebApplication1.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\WebApplication1.pdb
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\csc.exe
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\csc.exe.config
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\csc.rsp
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\csi.exe
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\csi.exe.config
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\csi.rsp
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Console.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Http.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\vbc.exe.config
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\vbc.rsp
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\EntityFramework.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Helpers.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Mvc.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Optimization.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Razor.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.WebPages.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\WebGrease.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\EntityFramework.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Helpers.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Mvc.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Optimization.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.Razor.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.WebPages.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Newtonsoft.Json.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\EPPlus.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\System.ComponentModel.Annotations.dll
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\EPPlus.xml
+E:\Nam3\Programming web\Lập trình web\WatchShop-main\WebApplication1\bin\Microsoft.IO.RecyclableMemoryStream.xml
