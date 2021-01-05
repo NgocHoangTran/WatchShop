@@ -96,9 +96,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                 </div>
                             </div>
                         </li>
-                        <li><a class="color10" href="brands.html">Brands</a></li>
+                        <li><a class="color10" href="/">Brands</a></li>
                         <li class="active grid"><a class="color3" href="/Checkout/Index">Cart</a></li>
-                        <li><a class="color7" href="404.html">News</a></li>
+                        <li><a class="color7" href="/">News</a></li>
                         <div class="clearfix"> </div>
                     </ul>
                 </div>
@@ -203,7 +203,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                                 <div class="mask1"><img src="@item.productPicture" alt="image" class="img-responsive zoom-img"></div>
                                                 <div class="mask">
                                                     <div class="info">
-                                                        <a class="cbp-vm-image" href="/ProductView/Detail/@item.ID">QuickView</a>
+                                                        <a target="_blank" class="cbp-vm-image" href="/ProductView/Detail/@item.ID">QuickView</a>
                                                     </div>
                                                 </div>
                                                 <div class="product_container">
@@ -302,9 +302,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         alert("You must login");
                         window.location = "/Home/Index";
                     }
-                    else {
-                        window.location = "/Home/Error";
-                    }
+                    //else {
+                    //    window.location = "/Home/Error";
+                    //}
                 }
             });
         });

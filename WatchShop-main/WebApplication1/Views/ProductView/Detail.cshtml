@@ -1,4 +1,5 @@
-﻿@model WebApplication1.Models.Product
+﻿
+@model WebApplication1.Models.Product
 @{
     ViewBag.Title = "Detail";
 }
@@ -90,9 +91,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         <div class="h_nav">
                                             <h4>Categories</h4>
                                             <ul>
-                                                @{
-                                                    Html.RenderAction("getCate", "Home");
-                                                }
                                             </ul>
                                         </div>
                                     </div>
@@ -100,18 +98,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                         <div class="h_nav">
                                             <h4>Trends</h4>
                                             <ul>
-                                                @{
-                                                    Html.RenderAction("trend", "Home");
-                                                }
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </li>
-                        <li><a class="color10" href="brands.html">Brands</a></li>
+                        <li><a class="color10" href="/">Brands</a></li>
                         <li class="active grid"><a class="color3" href="/Checkout/Index">Cart</a></li>
-                        <li><a class="color7" href="404.html">News</a></li>
+                        <li><a class="color7" href="/">News</a></li>
                         <div class="clearfix"> </div>
                     </ul>
                 </div>
@@ -323,4 +318,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <script src="~/js/addtocart.js"></script>
 </body>
 </html>
+
+
 

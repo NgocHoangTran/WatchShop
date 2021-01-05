@@ -17,8 +17,10 @@ namespace WebApplication1.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            List<Category> myList = func.getAllCategories();
-            ViewBag.MyList = myList;
+            
+                List<Category> myList = func.getAllCategories();
+                ViewBag.MyList = myList;
+            
             return View();
         }
         public ActionResult Account()
@@ -77,7 +79,7 @@ namespace WebApplication1.Controllers
             //gan quyen
             cus.idUser = 2;
             if (func.register(cus))
-                return View("Index");
+                return RedirectToAction("Index");
             return Content("Error");
         }
         public PartialViewResult getCate()
@@ -92,9 +94,9 @@ namespace WebApplication1.Controllers
             ViewBag.lstPro = lstPro.Take(3);
             return PartialView();
         }
-        public ActionResult Error()
-        {
-            return View();
-        }
+        //public ActionResult Error()
+        //{
+        //    return View();
+        //}
     }
 }

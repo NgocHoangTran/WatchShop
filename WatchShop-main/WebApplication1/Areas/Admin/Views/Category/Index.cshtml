@@ -128,6 +128,8 @@
     <script>
         //Load data to table
         $(document).ready(function () {
+
+
             var myTable = $("#myTable").DataTable({
                 "ajax": {
                     "url": "/Admin/Category/GetData",
@@ -138,15 +140,16 @@
                 "columns": [
                     { "data": "ID" },
                     { "data": "cateName" },
-                    { "data": "cateDescription" },
+                    { "data": "cateDesription" },
                     {
-                        "data": "catePicture",
+                        "data": "catePiture",
                         "render": function (data, type, row) {
-                            return '<img src="' + data + '"width="160" height="160" />';
+                            return '<img src="' + data + '"width="160" height="160" >';
                         }
                     }
                 ]
             });
+
 
             //selected row
             $('#myTable tbody').on('click', 'tr', function () {

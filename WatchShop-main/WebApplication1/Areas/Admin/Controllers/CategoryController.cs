@@ -13,20 +13,22 @@ namespace WebApplication1.Areas.Admin.Controllers
         // GET: Admin/Category
         public ActionResult Index()
         {
-            var cs = Session["customers"];
-            if (cs == null)
-                return RedirectToAction("LoginForm", "Admin");
+            //var cs = Session["customers"];
+            //if (cs == null)
+            //    return RedirectToAction("LoginForm", "Admin");
+            
             return View();
         }
         public ActionResult GetData()
         {
-            var cs = Session["customers"];
-            if (cs == null)
-                return RedirectToAction("LoginForm", "Admin");
-            List<Category> lstcat = new List<Category>();
-            lstcat = func.getAllCategories();
-            var data = new List<Category>(lstcat);
+            //var cs = Session["customers"];
+            //if (cs == null)
+            //    return RedirectToAction("LoginForm", "Admin");
+       
+
+            var data = func.getAllCategories();
             return Json(data, JsonRequestBehavior.AllowGet);
+
         }
         public ActionResult DelCategory(string id)
         {

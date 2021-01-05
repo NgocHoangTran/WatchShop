@@ -70,7 +70,7 @@ namespace WebApplication1.Function
         {
             using (var _context = new DBDongho())
             {
-                _context.Configuration.LazyLoadingEnabled = false;
+                //_context.Configuration.LazyLoadingEnabled = false;
                 var dbcat = (from cat in _context.Categories
                              select cat).ToList();
                 return dbcat;
@@ -103,8 +103,9 @@ namespace WebApplication1.Function
         {
             using (var _context = new DBDongho())
             {
+                string password = Encrypt.GetMD5(pass);
                 var dbcus = (from cus in _context.Customers
-                             where cus.accuontName == acc && cus.passWord == pass
+                             where cus.accuontName == acc && cus.passWord == password
                              select cus).ToList();
                 if (dbcus.Count == 1)
                     return true;
